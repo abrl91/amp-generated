@@ -18,4 +18,4 @@ class EmptyFindUniqueArgs {
   where!: EmptyWhereUniqueInput;
 }
 
-export { EmptyFindUniqueArgs as EmptyFindUniqueArgs };
+export { EmptyFindUniqueArgs };

@@ -21,4 +21,4 @@ class UpdateOrderArgs {
   data!: OrderUpdateInput;
 }
 
-export { UpdateOrderArgs as UpdateOrderArgs };
+export { UpdateOrderArgs };

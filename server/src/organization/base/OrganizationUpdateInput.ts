@@ -66,4 +66,4 @@ class OrganizationUpdateInput {
   vipCustomers?: CustomerUpdateManyWithoutOrganizationsInput;
 }
 
-export { OrganizationUpdateInput as OrganizationUpdateInput };
+export { OrganizationUpdateInput };

@@ -89,4 +89,4 @@ class OrderWhereInput {
   label?: "fragile";
 }
 
-export { OrderWhereInput as OrderWhereInput };
+export { OrderWhereInput };

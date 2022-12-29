@@ -53,4 +53,4 @@ class OrganizationListRelationFilter {
   })
   none?: OrganizationWhereInput;
 }
-export { OrganizationListRelationFilter as OrganizationListRelationFilter };
+export { OrganizationListRelationFilter };

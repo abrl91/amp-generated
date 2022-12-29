@@ -101,4 +101,4 @@ class OrganizationWhereInput {
   vipCustomers?: CustomerListRelationFilter;
 }
 
-export { OrganizationWhereInput as OrganizationWhereInput };
+export { OrganizationWhereInput };

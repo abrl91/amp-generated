@@ -207,4 +207,4 @@ class CustomerWhereInput {
   orders?: OrderListRelationFilter;
 }
 
-export { CustomerWhereInput as CustomerWhereInput };
+export { CustomerWhereInput };

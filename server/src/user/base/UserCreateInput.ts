@@ -201,4 +201,4 @@ class UserCreateInput {
   profile?: ProfileWhereUniqueInput | null;
 }
 
-export { UserCreateInput as UserCreateInput };
+export { UserCreateInput };

@@ -18,4 +18,4 @@ class DeleteEmptyArgs {
   where!: EmptyWhereUniqueInput;
 }
 
-export { DeleteEmptyArgs as DeleteEmptyArgs };
+export { DeleteEmptyArgs };

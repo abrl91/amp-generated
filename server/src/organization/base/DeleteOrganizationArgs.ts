@@ -18,4 +18,4 @@ class DeleteOrganizationArgs {
   where!: OrganizationWhereUniqueInput;
 }
 
-export { DeleteOrganizationArgs as DeleteOrganizationArgs };
+export { DeleteOrganizationArgs };

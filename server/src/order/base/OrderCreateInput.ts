@@ -48,4 +48,4 @@ class OrderCreateInput {
   label?: "fragile" | null;
 }
 
-export { OrderCreateInput as OrderCreateInput };
+export { OrderCreateInput };

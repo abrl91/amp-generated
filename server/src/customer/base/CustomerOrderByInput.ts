@@ -163,4 +163,4 @@ class CustomerOrderByInput {
   vipOrganizationId?: SortOrder;
 }
 
-export { CustomerOrderByInput as CustomerOrderByInput };
+export { CustomerOrderByInput };

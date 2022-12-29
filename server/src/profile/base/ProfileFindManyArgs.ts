@@ -50,4 +50,4 @@ class ProfileFindManyArgs {
   take?: number;
 }
 
-export { ProfileFindManyArgs as ProfileFindManyArgs };
+export { ProfileFindManyArgs };

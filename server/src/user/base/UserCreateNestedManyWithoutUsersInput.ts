@@ -25,4 +25,4 @@ class UserCreateNestedManyWithoutUsersInput {
   connect?: Array<UserWhereUniqueInput>;
 }
 
-export { UserCreateNestedManyWithoutUsersInput as UserCreateNestedManyWithoutUsersInput };
+export { UserCreateNestedManyWithoutUsersInput };

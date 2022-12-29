@@ -43,4 +43,4 @@ class UserUpdateManyWithoutUsersInput {
   set?: Array<UserWhereUniqueInput>;
 }
 
-export { UserUpdateManyWithoutUsersInput as UserUpdateManyWithoutUsersInput };
+export { UserUpdateManyWithoutUsersInput };

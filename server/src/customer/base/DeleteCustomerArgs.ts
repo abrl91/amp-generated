@@ -18,4 +18,4 @@ class DeleteCustomerArgs {
   where!: CustomerWhereUniqueInput;
 }
 
-export { DeleteCustomerArgs as DeleteCustomerArgs };
+export { DeleteCustomerArgs };

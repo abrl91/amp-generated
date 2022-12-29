@@ -54,4 +54,4 @@ class OrderUpdateInput {
   label?: "fragile" | null;
 }
 
-export { OrderUpdateInput as OrderUpdateInput };
+export { OrderUpdateInput };

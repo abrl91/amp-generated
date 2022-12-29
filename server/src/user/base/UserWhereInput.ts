@@ -161,4 +161,4 @@ class UserWhereInput {
   profile?: ProfileWhereUniqueInput;
 }
 
-export { UserWhereInput as UserWhereInput };
+export { UserWhereInput };

@@ -18,4 +18,4 @@ class OrganizationFindUniqueArgs {
   where!: OrganizationWhereUniqueInput;
 }
 
-export { OrganizationFindUniqueArgs as OrganizationFindUniqueArgs };
+export { OrganizationFindUniqueArgs };

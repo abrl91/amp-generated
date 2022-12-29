@@ -73,4 +73,4 @@ class OrderOrderByInput {
   label?: SortOrder;
 }
 
-export { OrderOrderByInput as OrderOrderByInput };
+export { OrderOrderByInput };
