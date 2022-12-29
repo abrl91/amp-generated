@@ -46,4 +46,4 @@ class EmptyOrderByInput {
   updatedAt?: SortOrder;
 }
 
-export { EmptyOrderByInput as EmptyOrderByInput };
+export { EmptyOrderByInput };

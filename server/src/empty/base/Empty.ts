@@ -41,4 +41,4 @@ class Empty {
   updatedAt!: Date;
 }
 
-export { Empty as Empty };
+export { Empty };

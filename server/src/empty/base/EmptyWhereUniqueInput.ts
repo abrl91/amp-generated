@@ -24,4 +24,4 @@ class EmptyWhereUniqueInput {
   id!: string;
 }
 
-export { EmptyWhereUniqueInput as EmptyWhereUniqueInput };
+export { EmptyWhereUniqueInput };

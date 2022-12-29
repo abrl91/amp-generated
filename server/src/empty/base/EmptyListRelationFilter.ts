@@ -53,4 +53,4 @@ class EmptyListRelationFilter {
   })
   none?: EmptyWhereInput;
 }
-export { EmptyListRelationFilter as EmptyListRelationFilter };
+export { EmptyListRelationFilter };

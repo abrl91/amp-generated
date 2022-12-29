@@ -50,4 +50,4 @@ class EmptyFindManyArgs {
   take?: number;
 }
 
-export { EmptyFindManyArgs as EmptyFindManyArgs };
+export { EmptyFindManyArgs };

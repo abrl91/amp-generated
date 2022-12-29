@@ -43,4 +43,4 @@ class OrganizationUpdateManyWithoutUsersInput {
   set?: Array<OrganizationWhereUniqueInput>;
 }
 
-export { OrganizationUpdateManyWithoutUsersInput as OrganizationUpdateManyWithoutUsersInput };
+export { OrganizationUpdateManyWithoutUsersInput };

@@ -63,4 +63,4 @@ class OrganizationCreateInput {
   vipCustomers?: CustomerCreateNestedManyWithoutOrganizationsInput;
 }
 
-export { OrganizationCreateInput as OrganizationCreateInput };
+export { OrganizationCreateInput };

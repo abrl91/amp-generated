@@ -50,4 +50,4 @@ class OrganizationFindManyArgs {
   take?: number;
 }
 
-export { OrganizationFindManyArgs as OrganizationFindManyArgs };
+export { OrganizationFindManyArgs };

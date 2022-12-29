@@ -18,4 +18,4 @@ class CreateProfileArgs {
   data!: ProfileCreateInput;
 }
 
-export { CreateProfileArgs as CreateProfileArgs };
+export { CreateProfileArgs };

@@ -78,4 +78,4 @@ class Organization {
   vipCustomers?: Array<Customer>;
 }
 
-export { Organization as Organization };
+export { Organization };

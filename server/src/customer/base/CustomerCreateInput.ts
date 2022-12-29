@@ -189,4 +189,4 @@ class CustomerCreateInput {
   orders?: OrderCreateNestedManyWithoutCustomersInput;
 }
 
-export { CustomerCreateInput as CustomerCreateInput };
+export { CustomerCreateInput };

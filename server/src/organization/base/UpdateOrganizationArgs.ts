@@ -21,4 +21,4 @@ class UpdateOrganizationArgs {
   data!: OrganizationUpdateInput;
 }
 
-export { UpdateOrganizationArgs as UpdateOrganizationArgs };
+export { UpdateOrganizationArgs };

@@ -18,4 +18,4 @@ class DeleteProfileArgs {
   where!: ProfileWhereUniqueInput;
 }
 
-export { DeleteProfileArgs as DeleteProfileArgs };
+export { DeleteProfileArgs };

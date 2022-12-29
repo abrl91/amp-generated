@@ -204,4 +204,4 @@ class Customer {
   orders?: Array<Order>;
 }
 
-export { Customer as Customer };
+export { Customer };

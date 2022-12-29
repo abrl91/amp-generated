@@ -38,4 +38,4 @@ class ProfileCreateInput {
   user?: UserWhereUniqueInput | null;
 }
 
-export { ProfileCreateInput as ProfileCreateInput };
+export { ProfileCreateInput };

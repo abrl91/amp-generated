@@ -55,4 +55,4 @@ class OrganizationOrderByInput {
   name?: SortOrder;
 }
 
-export { OrganizationOrderByInput as OrganizationOrderByInput };
+export { OrganizationOrderByInput };

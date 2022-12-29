@@ -25,4 +25,4 @@ class OrganizationCreateNestedManyWithoutUsersInput {
   connect?: Array<OrganizationWhereUniqueInput>;
 }
 
-export { OrganizationCreateNestedManyWithoutUsersInput as OrganizationCreateNestedManyWithoutUsersInput };
+export { OrganizationCreateNestedManyWithoutUsersInput };

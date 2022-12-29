@@ -52,4 +52,4 @@ class EmptyWhereInput {
   updatedAt?: DateTimeFilter;
 }
 
-export { EmptyWhereInput as EmptyWhereInput };
+export { EmptyWhereInput };

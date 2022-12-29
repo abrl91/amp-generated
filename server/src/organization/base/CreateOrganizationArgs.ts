@@ -18,4 +18,4 @@ class CreateOrganizationArgs {
   data!: OrganizationCreateInput;
 }
 
-export { CreateOrganizationArgs as CreateOrganizationArgs };
+export { CreateOrganizationArgs };

@@ -10,4 +10,4 @@ https://docs.amplication.com/how-to/custom-code
 ------------------------------------------------------------------------------
   */
 class EmptyCreateInput {}
-export { EmptyCreateInput as EmptyCreateInput };
+export { EmptyCreateInput };

@@ -65,4 +65,4 @@ class Profile {
   user?: User | null;
 }
 
-export { Profile as Profile };
+export { Profile };

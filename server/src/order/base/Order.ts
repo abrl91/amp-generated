@@ -79,4 +79,4 @@ class Order {
   label?: "fragile" | null;
 }
 
-export { Order as Order };
+export { Order };

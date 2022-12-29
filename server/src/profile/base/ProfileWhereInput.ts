@@ -77,4 +77,4 @@ class ProfileWhereInput {
   user?: UserWhereUniqueInput;
 }
 
-export { ProfileWhereInput as ProfileWhereInput };
+export { ProfileWhereInput };

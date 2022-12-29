@@ -192,4 +192,4 @@ class CustomerUpdateInput {
   orders?: OrderUpdateManyWithoutCustomersInput;
 }
 
-export { CustomerUpdateInput as CustomerUpdateInput };
+export { CustomerUpdateInput };

@@ -24,4 +24,4 @@ class OrganizationWhereUniqueInput {
   id!: string;
 }
 
-export { OrganizationWhereUniqueInput as OrganizationWhereUniqueInput };
+export { OrganizationWhereUniqueInput };

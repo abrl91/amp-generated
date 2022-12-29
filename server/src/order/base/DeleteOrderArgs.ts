@@ -18,4 +18,4 @@ class DeleteOrderArgs {
   where!: OrderWhereUniqueInput;
 }
 
-export { DeleteOrderArgs as DeleteOrderArgs };
+export { DeleteOrderArgs };

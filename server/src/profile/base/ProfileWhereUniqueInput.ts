@@ -24,4 +24,4 @@ class ProfileWhereUniqueInput {
   id!: number;
 }
 
-export { ProfileWhereUniqueInput as ProfileWhereUniqueInput };
+export { ProfileWhereUniqueInput };
